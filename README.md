@@ -5,3 +5,4 @@ Site
  - import homescreens from imgur album
  - setup the wiki/resources/faq
  - functionality and aesthetics
+ - dank memes
