@@ -4,4 +4,4 @@ Site
 # To-do
  - import homescreens from imgur album
  - setup the wiki/resources/faq
- - give spodes voice
+ - functionality and aesthetics
