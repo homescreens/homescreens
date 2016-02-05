@@ -8,5 +8,6 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
  - functionality and aesthetics
  - dank memes ✗  ˙͜>˙ 
  - implement infinite scrolling so the page isnt 3 miles long (OXE4)
+ - original Favicon.ico
 
 http://homescreens.github.io
