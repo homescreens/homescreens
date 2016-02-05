@@ -6,6 +6,7 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
  - import homescreens from imgur album ✓
  - setup the wiki/resources/faq
  - functionality and aesthetics
+   - webm/gif functionality
  - dank memes ✗  ˙͜>˙ 
  - implement infinite scrolling so the page isnt 3 miles long (OXE4)
  - original Favicon.ico
