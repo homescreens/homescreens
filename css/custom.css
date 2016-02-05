@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway|Droid+Sans);
 
 html {
-font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 
 /* .container {
@@ -24,8 +24,8 @@ img {
 
 .footer{font-size:12px;padding-top: 10px}
 
-h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; font-family: 'Droid Sans', sans-serif; }
+h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; font-family: 'Raleway', sans-serif; }
 
 @media (min-width: 550px) {
-  h2 { font-size: 4.2rem; font-family: 'Droid Sans', sans-serif; }
+  h2 { font-size: 4.2rem; font-family: 'Raleway', sans-serif; }
 }
