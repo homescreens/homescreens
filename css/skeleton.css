@@ -32,7 +32,8 @@
   position: relative;
   width: 100%;
   max-width: 960px;
-  margin: 0 auto;
+  margin: 10px auto;
+  text-align: center;
   padding: 0 20px;
   box-sizing: border-box; }
 .column,
