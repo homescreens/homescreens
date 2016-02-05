@@ -6,4 +6,4 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
  - import homescreens from imgur album ✓
  - setup the wiki/resources/faq
  - functionality and aesthetics
- - dank memes
+ - dank memes ✗  ˙͜>˙ 
