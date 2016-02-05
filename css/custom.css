@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway|Droid+Sans);
+
+html {
+font-family: 'Raleway', sans-serif;
+}
+
+/* .container {
+  font-size:14px} */
+
+.row {
+  margin-bottom: .75rem; }
+
+.content-grid .column,
+.content-grid .columns {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: .75rem; }
+
+img {
+    border: 10px solid #F9F7F6;
+    max-width: 100%;
+    height: auto;
+}
+
+.footer{font-size:12px;padding-top: 10px}
+
+h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; font-family: 'Droid Sans', sans-serif; }
+
+@media (min-width: 550px) {
+  h2 { font-size: 4.2rem; font-family: 'Droid Sans', sans-serif; }
+}
