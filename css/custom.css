@@ -4,11 +4,15 @@ html {
 font-family: 'Open Sans', sans-serif;
 }
 
+body {
+  background-color: #F9F7F6;
+}
+
 /* .container {
   font-size:14px} */
 
 .row {
-  margin-bottom: .75rem; }
+  margin-bottom: 40px; }
 
 .content-grid .column,
 .content-grid .columns {
@@ -17,7 +21,7 @@ font-family: 'Open Sans', sans-serif;
   margin-bottom: .75rem; }
 
 img {
-    border: 10px solid #F9F7F6;
+    border: 10px solid #f3efee;
     max-width: 100%;
     height: auto;
 }
