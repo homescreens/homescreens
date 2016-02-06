@@ -12,13 +12,15 @@ body {
   font-size:14px} */
 
 .row {
-  margin-bottom: 40px; }
+  margin-bottom: 40px; 
+}
 
 .content-grid .column,
 .content-grid .columns {
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: .75rem; }
+  margin-bottom: .75rem; 
+}
 
 img {
     border: 10px solid #f3efee;
@@ -27,9 +29,21 @@ img {
     height: auto;
 }
 
-.footer{font-size:12px;padding-top: 10px}
+.footer{
+	font-size:12px;
+	padding-top: 10px
+}
 
-h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; font-family: 'Raleway', sans-serif; }
+h2 { 
+	font-size: 3.6rem; 
+	line-height: 1.25; 
+	letter-spacing: -.1rem; 
+	font-family: 'Raleway', sans-serif; 
+}
+
+p {
+	font-family: 'open sans,' sans-serif;
+}
 
 @media (min-width: 550px) {
   h2 { font-size: 4.2rem; font-family: 'Raleway', sans-serif; }
