@@ -29,6 +29,10 @@ img {
     height: auto;
 }
 
+img.webm {
+    border: 10px solid #e5ebec;
+}
+
 .footer{
 	font-size:12px;
 	padding-top: 10px
