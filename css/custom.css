@@ -23,6 +23,7 @@ body {
 img {
     border: 10px solid #f3efee;
     max-width: 100%;
+    min-width: 390px;
     height: auto;
 }
 
