@@ -1,6 +1,8 @@
 # homescreens.github.io
 This is a website project to display inspiration images for the /wg/ offical homepage thread.
 Currently, it is featuring the imgur album in the /wg/ post, but soon more will be added.
+<br /><br />
+Testing new layout: http://homescreens.github.io/newlayout/
 
 # To-do
  - import homescreens from imgur album ✓
