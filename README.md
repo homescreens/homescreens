@@ -8,7 +8,7 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
  - functionality and aesthetics
    - webm/gif functionality
  - dank memes ✗  ˙͜>˙ 
- - implement infinite scrolling so the page isnt 3 miles long (OXE4)
+ - implement infinite scrolling so the page isnt 3 miles long on load
  - original Favicon.ico
  - clean up HTML and CSS once site is completed (OXE4)
  - make columns split to one row earlier for mobile ✓
