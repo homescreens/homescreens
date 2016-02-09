@@ -13,5 +13,6 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
  - clean up HTML and CSS once site is completed (OXE4)
  - make columns split to one row earlier for mobile ✓
  - potentially purchase a domain name
+ - font changes (especially the title)
 
 http://homescreens.github.io
