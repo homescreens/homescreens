@@ -2,22 +2,15 @@
 layout: default
 ---
 
-<div class="home">
+<h1>The best of /wg/</h1>
+<p>Subtitle goes here, whatever.</p>
 
-  <h1 class="page-heading">Posts</h1>
+<div class="row no-collapse-1">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+{% for image in site.data.homescreens %}
+  <section class="{{ image.col-size }}">
+    <a href="{{ image.full_path }}" target="_blank"><img class="lazyload" data-src="{{ image.image_url }}" alt="image"></a>
+  </section>
+{% endfor %}
 
 </div>
