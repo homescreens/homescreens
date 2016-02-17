@@ -10,7 +10,7 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
 - [ ] dank memes  ˙͜>˙ :^)
 - [ ] implement infinite scrolling so the page isnt 3 miles long on load
 - [ ] original Favicon.ico
-- [ ] clean up HTML and CSS once site is completed (0XE4)
+- [ ] clean up HTML and CSS once site is completed
 - [x] make columns split to one row earlier for mobile
 - [ ] potentially purchase a domain name
 - [ ] font changes (especially the title)
