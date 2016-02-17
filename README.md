@@ -7,7 +7,7 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
 - [ ] setup the wiki/resources/faq
 - [ ] functionality and aesthetics
    - [ ] webm/gif functionality
-- [ ] dank memes  ˙͜>˙ 
+- [ ] dank memes  ˙͜>˙ :^)
 - [ ] implement infinite scrolling so the page isnt 3 miles long on load
 - [ ] original Favicon.ico
 - [ ] clean up HTML and CSS once site is completed (OXE4)
