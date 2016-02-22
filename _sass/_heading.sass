@@ -3,20 +3,21 @@
     position: relative
     height: 50px
     margin-bottom: 100px
+    padding: 0 15px
 
     .page-content::after
         content: ""
         position: absolute
         z-index: -1
         left: 0
-        width: 800px
+        width: 750px
         height: 0
         border-top: 70px solid $header-bg
         border-right: 70px solid transparent
 
     h1
         display: inline
-        font-family: Inconsolata
+        font-family: $font-main
         color: white
         position: absolute
         font-weight: normal
@@ -25,10 +26,17 @@
     .nav
         list-style: none
         float: right
+        font-family: $font-main
+        margin-top: 13px
+        font-size: 1.2em
 
         li
             display: inline-block
 
             a
                 text-decoration: none
+                color: white
+
+            &:not(:first-child):before
+                content: " // "
                 color: white
