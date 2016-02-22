@@ -14,5 +14,6 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
 - [x] make columns split to one row earlier for mobile
 - [ ] potentially purchase a domain name
 - [ ] font changes (especially the title)
+- [ ] Credit Play Icon creator
 
 http://homescreens.github.io

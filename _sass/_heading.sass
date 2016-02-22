@@ -1,0 +1,34 @@
+.header
+    background-color: $header-bg
+    position: relative
+    height: 50px
+    margin-bottom: 100px
+
+    .page-content::after
+        content: ""
+        position: absolute
+        z-index: -1
+        left: 0
+        width: 800px
+        height: 0
+        border-top: 70px solid $header-bg
+        border-right: 70px solid transparent
+
+    h1
+        display: inline
+        font-family: Inconsolata
+        color: white
+        position: absolute
+        font-weight: normal
+        margin-top: 15px
+
+    .nav
+        list-style: none
+        float: right
+
+        li
+            display: inline-block
+
+            a
+                text-decoration: none
+                color: white
