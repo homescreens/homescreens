@@ -2,10 +2,10 @@
     background-color: $header-bg
     position: relative
     height: 50px
-    margin-bottom: 100px
+    margin-bottom: 50px
     padding: 0 15px
 
-    .page-content::after
+    .page-content:after
         content: ""
         position: absolute
         z-index: -1
@@ -33,10 +33,14 @@
         li
             display: inline-block
 
+            &:not(:first-child):before
+                content: " // "
+                color: white
+
             a
                 text-decoration: none
                 color: white
 
-            &:not(:first-child):before
-                content: " // "
-                color: white
+                &:hover
+                    color: $link-hover
+                    text-decoration: underline

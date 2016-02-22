@@ -1,0 +1,52 @@
+.about
+    background-color: $header-bg
+    color: white
+    font-family: $font-main
+    width: 454px
+    position: relative
+    padding: 20px
+
+    &:before
+        content: ""
+        position: absolute
+        z-index: -1
+        right: 0
+        top: -20px
+        width: 140px
+        height: 0
+        border-bottom: 30px solid $header-bg
+        border-left: 30px solid transparent
+
+    h2
+        font-weight: normal
+        text-decoration: none
+        position: absolute
+        right: 20px
+        top: -10px
+
+    p
+        margin: 20px 0
+
+    ul
+        list-style: none
+        text-align: right
+
+        li
+            margin-bottom: 10px
+            font-size: 1.3em
+
+            a
+                text-decoration: none
+                color: white
+
+                &:hover
+                    color: $link-hover
+
+    .col-left
+        float: left
+        width: 59%
+        margin: 0
+
+    .col-right
+        float: right
+        width: 40%
