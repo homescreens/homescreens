@@ -22,11 +22,14 @@ layout: default
 
 
 
-<div class="clearfix">
+<div class="img-grid clearfix">
 
 {% for image in site.data.homescreens %}
-  <div class="img-container {{ image.col-size }}">
+  <div class="img-container {{ image.col-size }} {{ image.type }}">
     <a href="{{ image.full_path }}" target="_blank"><img class="lazyload" data-src="{{ image.image_url }}" alt="image"></a>
+    {% if image.type == "webm" %}
+    <span class="play">&#9658;</span>
+    {% endif %}
   </div>
 {% endfor %}
 

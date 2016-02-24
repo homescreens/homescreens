@@ -32,26 +32,51 @@ body
     width: 50%
     margin: 0 auto
 
+.img-grid
+    margin: 50px 0
+
 .img-container
     display: inline-block
+    vertical-align: middle
+    position: relative
+    
+    .play
+        display: none
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translateX(-50%) translateY(-50%)
+        z-index: 1
+        color: $link-hover
+        font-size: 3em
+
+    &:hover .play
+        display: block
+
     
 
 
 
 .col-1
     width: 33%
-    padding: 20px
+    padding: 10px 10px 0 0
 
 .col-2
     width: 66%
-    padding: 20px
+    padding: 10px 10px 0 0
 
 .col-3
-    width: 99%
-    padding: 20px 0
+    width: 100%
+    padding: 10px 10px 0 0
 
 img
     width: 100%
+    position: relative
+    z-index: 1
+    border: 5px solid #888
+
+    &:hover
+        border: 5px solid $link-hover
 
 @import heading
 @import about
