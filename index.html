@@ -12,6 +12,14 @@ layout: default
   </ul>
 </div>
 
+<div class="news">
+  <h2>News</h2>
+  {% for post in site.posts limit: 1 %}
+  <p class="title">{{ post.date | date: "%m/%d/%Y" }} - {{ post.title }}</p>
+  {{ post.excerpt }}
+  {% endfor %}
+</div>
+
 
 
 <div class="clearfix">

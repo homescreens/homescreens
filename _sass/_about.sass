@@ -1,10 +1,12 @@
 .about
+    display: inline-block
     background-color: $header-bg
     color: white
     font-family: $font-main
     width: 454px
     position: relative
     padding: 20px
+    vertical-align: top
 
     &:before
         content: ""
@@ -22,10 +24,11 @@
         text-decoration: none
         position: absolute
         right: 20px
-        top: -10px
+        top: -7px
 
     p
         margin: 20px 0
+        line-height: 1.3em
 
     ul
         list-style: none
@@ -50,3 +53,56 @@
     .col-right
         float: right
         width: 40%
+
+.news
+    display: inline-block
+    vertical-align: top
+    background-color: $header-bg
+    color: white
+    font-family: $font-main
+    width: 454px
+    position: relative
+    padding: 20px 40px 20px 40px
+    margin-top: 5px
+    margin-left: 15px
+
+    &:before
+        content: ""
+        position: absolute
+        z-index: -1
+        left: 0
+        top: -25px
+        width: 454px - 25px
+        height: 0
+        border-bottom: 25px solid $header-bg
+        border-left: 25px solid transparent
+
+    h2
+        font-weight: normal
+        text-decoration: none
+        position: absolute
+        left: 40px
+        top: -12px
+
+    p
+        line-height: 1.3em
+
+    .title
+        margin-top: 15px
+
+        &:after
+            content: "----------------------------------------------"
+            display: block
+
+    a
+        text-decoration: none
+        color: white
+
+        &:hover
+            color: $link-hover
+
+        &:before
+            content: "{ "
+
+        &:after
+            content: " }"
