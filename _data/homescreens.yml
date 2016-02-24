@@ -44,7 +44,7 @@
 
 - image_url: /assets/images/thumbs/0012.png
   full_path: /assets/images/full/0012.png
-  col-size: col-3
+  col-size: col-2
 
 - image_url: /assets/images/thumbs/0013.png
   full_path: /assets/images/webm/0013.webm
@@ -96,23 +96,23 @@
 
 - image_url: /assets/images/thumbs/0025.png
   full_path: /assets/images/webm/0025.webm
-  col-size: col-3
+  col-size: col-2
 
 - image_url: /assets/images/thumbs/0026.png
   full_path: /assets/images/full/0026.png
-  col-size: col-3
-
-- image_url: /assets/images/thumbs/0027.png
-  full_path: /assets/images/full/0027.png
-  col-size: col-3
+  col-size: col-2
 
 - image_url: /assets/images/thumbs/0028.png
   full_path: /assets/images/webm/0028.webm
   col-size: col-1
 
+- image_url: /assets/images/thumbs/0027.png
+  full_path: /assets/images/full/0027.png
+  col-size: col-3
+
 - image_url: /assets/images/thumbs/0029.png
   full_path: /assets/images/webm/0029.webm
-  col-size: col-3
+  col-size: col-2
 
 - image_url: /assets/images/thumbs/0030.jpg
   full_path: /assets/images/full/0030.jpg
