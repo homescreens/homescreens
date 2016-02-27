@@ -1,0 +1,108 @@
+.about
+    display: inline-block
+    background-color: $header-bg
+    color: white
+    font-family: $font-main
+    width: 460px
+    position: relative
+    padding: 20px
+    vertical-align: top
+
+    &:before
+        content: ""
+        position: absolute
+        z-index: -1
+        right: 0
+        top: -20px
+        width: 140px
+        height: 0
+        border-bottom: 30px solid $header-bg
+        border-left: 30px solid transparent
+
+    h2
+        font-weight: normal
+        text-decoration: none
+        position: absolute
+        right: 20px
+        top: -7px
+
+    p
+        margin: 20px 0
+        line-height: 1.3em
+
+    ul
+        list-style: none
+        text-align: right
+
+        li
+            margin-bottom: 10px
+            font-size: 1.3em
+
+            a
+                text-decoration: none
+                color: white
+
+                &:hover
+                    color: $link-hover
+
+    .col-left
+        float: left
+        width: 59%
+        margin: 0
+
+    .col-right
+        float: right
+        width: 40%
+
+.news
+    display: inline-block
+    vertical-align: top
+    background-color: $header-bg
+    color: white
+    font-family: $font-main
+    width: 460px
+    position: relative
+    padding: 20px 40px 20px 40px
+    margin-top: 5px
+    margin-left: 15px
+
+    &:before
+        content: ""
+        position: absolute
+        z-index: -1
+        left: 0
+        top: -25px
+        width: 460px - 25px
+        height: 0
+        border-bottom: 25px solid $header-bg
+        border-left: 25px solid transparent
+
+    h2
+        font-weight: normal
+        text-decoration: none
+        position: absolute
+        left: 40px
+        top: -12px
+
+    p
+        line-height: 1.3em
+
+    .title
+        margin-top: 15px
+
+        &:after
+            content: "----------------------------------------------"
+            display: block
+
+    a
+        text-decoration: none
+        color: white
+
+        &:hover
+            color: $link-hover
+
+        &:before
+            content: "{ "
+
+        &:after
+            content: " }"

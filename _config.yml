@@ -1,0 +1,10 @@
+title: Homescreens
+description: >
+    Browse the best homescreens posted on /wg/ here. Currently listing 42 beautiful homescreens, with more to come.
+baseurl: ""
+
+# Build settings
+exclude: ["README.md", "old-site", "portfolio.sublime-project", "portfolio.sublime-workspace"]
+permalink: pretty
+gems:
+  - jekyll-sitemap

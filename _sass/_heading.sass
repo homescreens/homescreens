@@ -1,0 +1,46 @@
+.header
+    background-color: $header-bg
+    position: relative
+    height: 50px
+    margin-bottom: 50px
+    padding: 0 15px
+
+    .page-content:after
+        content: ""
+        position: absolute
+        z-index: -1
+        left: 0
+        width: 38%
+        height: 0
+        border-top: 70px solid $header-bg
+        border-right: 70px solid transparent
+
+    h1
+        display: inline
+        font-family: $font-main
+        color: white
+        position: absolute
+        font-weight: normal
+        margin-top: 15px
+
+    .nav
+        list-style: none
+        float: right
+        font-family: $font-main
+        margin-top: 13px
+        font-size: 1.2em
+
+        li
+            display: inline-block
+
+            &:not(:first-child):before
+                content: " // "
+                color: white
+
+            a
+                text-decoration: none
+                color: white
+
+                &:hover
+                    color: $link-hover
+                    text-decoration: underline

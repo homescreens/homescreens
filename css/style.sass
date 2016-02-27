@@ -1,0 +1,83 @@
+---
+---
+
+//Setup
+*
+    margin: 0
+    padding: 0
+    -webkit-box-sizing: border-box
+    -moz-box-sizing: border-box
+    box-sizing: border-box
+
+.clearfix:after
+    content: ""
+    display: table
+    clear: both
+
+//Setup
+
+//Variables
+$site-bg: #F9F7F6
+$header-bg: #464646
+$link-hover: #d8dc6a
+$font-main: "Inconsolata", sans-serif
+
+
+
+
+body
+    background-color: $site-bg
+
+.page-content
+    max-width: 950px
+    margin: 0 auto
+
+.img-grid
+    margin: 50px 0
+
+.img-container
+    display: inline-block
+    vertical-align: middle
+    position: relative
+    
+    .play
+        display: none
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translateX(-50%) translateY(-50%)
+        z-index: 1
+        color: $link-hover
+        font-size: 3em
+
+    &:hover .play
+        display: block
+
+    
+
+
+
+.col-1
+    width: 33%
+    padding: 10px 10px 0 0
+
+.col-2
+    width: 66%
+    padding: 10px 10px 0 0
+
+.col-3
+    width: 100%
+    padding: 10px 10px 0 0
+
+img
+    width: 100%
+    position: relative
+    z-index: 1
+    border: 5px solid #888
+
+    &:hover
+        border: 5px solid $link-hover
+
+@import heading
+@import about
+@import media-queries

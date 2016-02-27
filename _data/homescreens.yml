@@ -1,0 +1,214 @@
+- image_url: /assets/images/thumbs/0001.png
+  full_path: /assets/images/full/0001.png
+  col-size: col-3
+  type: image
+
+- image_url: /assets/images/thumbs/0002.jpg
+  full_path: /assets/images/webm/0002.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0003.png
+  full_path: /assets/images/full/0003.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0004.png
+  full_path: /assets/images/full/0004.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0005.jpg
+  full_path: /assets/images/webm/0005.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0006.png
+  full_path: /assets/images/full/0006.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0007.jpg
+  full_path: /assets/images/webm/0007.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0008.jpg
+  full_path: /assets/images/webm/0008.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0009.jpg
+  full_path: /assets/images/webm/0009.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0010.png
+  full_path: /assets/images/full/0010.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0011.png
+  full_path: /assets/images/full/0011.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0012.png
+  full_path: /assets/images/full/0012.png
+  col-size: col-2
+  type: image
+
+- image_url: /assets/images/thumbs/0013.png
+  full_path: /assets/images/webm/0013.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0014.png
+  full_path: /assets/images/full/0014.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0015.png
+  full_path: /assets/images/full/0015.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0016.png
+  full_path: /assets/images/full/0016.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0017.png
+  full_path: /assets/images/webm/0017.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0018.png
+  full_path: /assets/images/full/0018.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0019.png
+  full_path: /assets/images/webm/0019.webm
+  col-size: col-3
+  type: webm
+
+- image_url: /assets/images/thumbs/0020.jpg
+  full_path: /assets/images/full/0020.jpg
+  col-size: col-3
+  type: image
+
+- image_url: /assets/images/thumbs/0021.png
+  full_path: /assets/images/webm/0021.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0022.png
+  full_path: /assets/images/full/0022.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0023.png
+  full_path: /assets/images/full/0023.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0024.png
+  full_path: /assets/images/full/0024.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0025.png
+  full_path: /assets/images/webm/0025.webm
+  col-size: col-2
+  type: webm
+
+- image_url: /assets/images/thumbs/0026.png
+  full_path: /assets/images/full/0026.png
+  col-size: col-2
+  type: image
+
+- image_url: /assets/images/thumbs/0028.png
+  full_path: /assets/images/webm/0028.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0027.png
+  full_path: /assets/images/full/0027.png
+  col-size: col-3
+  type: image
+
+- image_url: /assets/images/thumbs/0029.png
+  full_path: /assets/images/webm/0029.webm
+  col-size: col-2
+  type: webm
+
+- image_url: /assets/images/thumbs/0030.jpg
+  full_path: /assets/images/full/0030.jpg
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0031.png
+  full_path: /assets/images/full/0031.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0032.jpg
+  full_path: /assets/images/full/0032.jpg
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0033.gif
+  full_path: /assets/images/full/0033.gif
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0034.png
+  full_path: /assets/images/full/0034.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0035.gif
+  full_path: /assets/images/full/0035.gif
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0036.png
+  full_path: /assets/images/full/0036.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0037.png
+  full_path: /assets/images/full/0037.png
+  col-size: col-3
+  type: image
+
+- image_url: /assets/images/thumbs/0038.jpg
+  full_path: /assets/images/webm/0038.webm
+  col-size: col-3
+  type: webm
+
+- image_url: /assets/images/thumbs/0039.png
+  full_path: /assets/images/full/0039.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0040.png
+  full_path: /assets/images/full/0040.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0041.png
+  full_path: /assets/images/webm/0041.webm
+  col-size: col-1
+  type: webm
+
+- image_url: /assets/images/thumbs/0042.png
+  full_path: /assets/images/full/0042.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0079.png
+  full_path: /assets/images/full/0079.png
+  col-size: col-1
+  type: image
