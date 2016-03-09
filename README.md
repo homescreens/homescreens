@@ -12,7 +12,8 @@ Currently, it is featuring the imgur album in the /wg/ post, but soon more will 
 - [ ] original Favicon.ico
 - [ ] clean up HTML and CSS once site is completed
 - [x] make columns split to one row earlier for mobile
-- [ ] potentially purchase a domain name
+- [x] potentially purchase a domain name\
+   - homescreens.org
 - [ ] font changes (especially the title)
 - [ ] Credit Play Icon creator
 
