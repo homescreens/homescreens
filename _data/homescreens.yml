@@ -1,10 +1,10 @@
 - image_url: /assets/images/full/0082.jpg
-  full_path: /assets/images/full/0082.webm
+  full_path: /assets/images/webm/0082.webm
   col-size: col-1
   type: webm
 
 - image_url: /assets/images/thumbs/0081.jpg
-  full_path: /assets/images/full/0081.webm
+  full_path: /assets/images/webm/0081.webm
   col-size: col-1
   type: webm
   
@@ -14,7 +14,7 @@
   type: image
 
 - image_url: /assets/images/thumbs/0079.jpg
-  full_path: /assets/images/full/0079.webm
+  full_path: /assets/images/webm/0079.webm
   col-size: col-1
   type: webm
   
