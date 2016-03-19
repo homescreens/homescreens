@@ -165,7 +165,7 @@
 
 - image_url: /assets/images/thumbs/0029.jpg
   full_path: /assets/images/webm/0029.webm
-  col-size: col-2
+  col-size: col-1
   type: webm
 
 - image_url: /assets/images/thumbs/0030.jpg
