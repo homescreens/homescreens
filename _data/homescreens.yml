@@ -1,3 +1,28 @@
+- image_url: /assets/images/thumbs/0082.jpg
+  full_path: /assets/images/full/0082.webm
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0081.jpg
+  full_path: /assets/images/full/0081.webm
+  col-size: col-1
+  type: image
+  
+- image_url: /assets/images/thumbs/0080.png
+  full_path: /assets/images/full/0080.png
+  col-size: col-1
+  type: image
+
+- image_url: /assets/images/thumbs/0079.jpg
+  full_path: /assets/images/full/0079.webm
+  col-size: col-1
+  type: image
+  
+- image_url: /assets/images/thumbs/0078.png
+  full_path: /assets/images/full/0078.png
+  col-size: col-1
+  type: image
+  
 - image_url: /assets/images/thumbs/0001.png
   full_path: /assets/images/full/0001.png
   col-size: col-3
@@ -205,10 +230,5 @@
 
 - image_url: /assets/images/thumbs/0042.png
   full_path: /assets/images/full/0042.png
-  col-size: col-1
-  type: image
-
-- image_url: /assets/images/thumbs/0079.png
-  full_path: /assets/images/full/0079.png
   col-size: col-1
   type: image
