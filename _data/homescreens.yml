@@ -1,14 +1,19 @@
-- image_url: /assets/images/thumb/0086.jpg
-  full_path: /assets/images/full/0086.png
+- image_url: /assets/images/thumbs/0087.jpg
+  full_path: /assets/images/webm/0087.webm
   col-size: col-1
   type: webm
+
+- image_url: /assets/images/thumbs/0086.jpg
+  full_path: /assets/images/full/0086.jpg
+  col-size: col-1
+  type: image
   
-- image_url: /assets/images/thumb/85.jpg
+- image_url: /assets/images/thumbs/85.jpg
   full_path: /assets/images/full/85.jpg
   col-size: col-3
   type: image
   
-- image_url: /assets/images/thumb/84.jpg
+- image_url: /assets/images/thumbs/84.jpg
   full_path: /assets/images/full/84.jpg
   col-size: col-1
   type: image
