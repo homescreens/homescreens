@@ -315,7 +315,7 @@
   
 - image_url: /assets/images/full/0053.png
   full_path: /assets/images/full/0053.png
-  col-size: col-3
+  col-size: col-2
   type: image 
   
 - image_url: /assets/images/full/0054.png
@@ -427,7 +427,7 @@
   full_path: /assets/images/full/0075.png
   col-size: col-1
   type: image
-  
+  005
 - image_url: /assets/images/full/0076.png
   full_path: /assets/images/full/0076.png
   col-size: col-1
