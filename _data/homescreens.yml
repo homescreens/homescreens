@@ -38,13 +38,13 @@
   col-size: col-1
   type: image
   
-- image_url: /assets/images/thumbs/85.jpg
-  full_path: /assets/images/full/85.jpg
+- image_url: /assets/images/thumbs/0085.jpg
+  full_path: /assets/images/full/0085.jpg
   col-size: col-3
   type: image
   
-- image_url: /assets/images/thumbs/84.jpg
-  full_path: /assets/images/webm/84.webm
+- image_url: /assets/images/thumbs/0084.jpg
+  full_path: /assets/images/webm/0084.webm
   col-size: col-1
   type: webm
   
