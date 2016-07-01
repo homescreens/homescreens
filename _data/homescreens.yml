@@ -1,8 +1,3 @@
-- image_url: /assets/images/thumbs/0094.png
-  full_path: /assets/images/full/0094.png
-  col-size: col-3
-  type: image
-  
 - image_url: /assets/images/thumbs/0093.png
   full_path: /assets/images/full/0093.png
   col-size: col-1
@@ -40,7 +35,7 @@
   
 - image_url: /assets/images/thumbs/0087.jpg
   full_path: /assets/images/webm/0087.webm
-  col-size: col-1
+  col-size: col-3
   type: webm
 
 - image_url: /assets/images/thumbs/0086.jpg
@@ -408,8 +403,8 @@
   col-size: col-1
   type: image
   
-- image_url: /assets/images/full/0066.png
-  full_path: /assets/images/full/0066.png
+- image_url: /assets/images/thumbs/0066.jpg
+  full_path: /assets/images/full/0066.jpg
   col-size: col-1
   type: image
   
