@@ -25,12 +25,12 @@
   type: webm
 
 - image_url: /assets/images/thumbs/0090.png
-  full_path: /assets/images/webm/0090.png
+  full_path: /assets/images/full/0090.png
   col-size: col-2
   type: image
 
 - image_url: /assets/images/thumbs/0088.png
-  full_path: /assets/images/webm/0088.png
+  full_path: /assets/images/full/0088.png
   col-size: col-3
   type: image
 
