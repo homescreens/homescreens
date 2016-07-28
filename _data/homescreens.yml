@@ -40,8 +40,8 @@
   type: image
   
 - image_url: /assets/images/thumbs/0087.png
-  full_path: /assets/images/webm/0087.png
-  col-size: col-3
+  full_path: /assets/images/webm/0087.webm
+  col-size: col-2
   type: webm
 
 - image_url: /assets/images/thumbs/0086.jpg
