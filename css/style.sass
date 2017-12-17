@@ -34,11 +34,16 @@ body
 
 .img-grid
     margin: 50px 0
+    display: grid
+    grid-template-columns: repeat(3, 1fr)
+    grid-auto-flow: dense
 
 .img-container
     display: inline-block
     vertical-align: middle
     position: relative
+    padding: 5px
+    height: 555px
     
     .play
         display: none
@@ -54,21 +59,15 @@ body
     &:hover .play
         display: block
 
-    
-
-
-
-.col-1
-    width: 33%
-    padding: 10px 10px 0 0
+    img
+        height: 100%
 
 .col-2
-    width: 66%
-    padding: 10px 10px 0 0
+    grid-column: 1/3
 
 .col-3
-    width: 100%
-    padding: 10px 10px 0 0
+    grid-column: 1/4
+    
 
 img
     width: 100%
