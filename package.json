@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap.native": "^2.0.24",
+    "jam-icons": "^2.0.0",
+    "salvattore": "^1.0.9",
+    "vanilla-lazyload": "^8.17.0"
+  }
+}

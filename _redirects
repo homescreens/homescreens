@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://homescreens.netlify.com/* https://homescreens.org/:splat 301!

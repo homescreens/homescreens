@@ -1,0 +1,11 @@
+#Jekyll Folders to ignore
+_site
+.sass-cache
+.jekyll-metadata
+
+#old-site folder
+old-site
+
+#Sublime workspace files
+*.sublime-project
+*.sublime-workspace

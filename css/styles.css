@@ -1,0 +1,86 @@
+/* Styles for example pages */
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body {
+	margin: 0 auto;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 1rem; 
+	font-weight: bold;
+	line-height: 1.4em;
+	background: #F9F9F9;
+	color: #666666;
+}
+h1 {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+h2 {
+	font-size: 1rem;
+	margin: 0.67em 0;
+}
+img,object,embed {
+	width: 100%;
+	margin-right: auto;
+	display: block;
+	max-width: 100%;
+	padding: 20px;
+}
+img:not([src]) {
+	visibility: hidden;
+}
+#collapsingNavbar3 {
+	margin-left: 3%;
+}
+#header {
+	background-color: #eef2ff;
+	padding: 1% 5%;
+	margin-bottom: 2%;
+	color: #515151;
+}
+#timeline {
+	margin: 0% 5%;
+}
+.content {
+	margin: 0% 5%;
+	max-width: 500px;
+}
+.content a {
+	color: #789fda;
+}
+.content a:hover {
+	text-decoration: underline;
+}
+.jammin {
+	border-color: black;
+	left: 30px;
+	position: relative;
+	top: 60px;
+	stroke: #3c74ca;
+	stroke-width: 2px;
+}
+.navbar {
+	background-color: #789fda !important;
+	padding: 1% 5%;
+}
+.navbar a {
+	color: #ffffff;
+}
+.navbar a:hover {
+	text-decoration: underline;
+}
+.navbar-toggler-icon {
+	background-color: #ffffff;
+	font-size: 1rem;
+}
+::-moz-selection {
+	color: #ffffff;
+	background-color: #61a3e9;
+}
+::selection {
+	color: #ffffff;
+	background-color: #61a3e9;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "jam-icons",
+  "version": "2.0.0",
+  "description": "Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, SVG and font versions. Licensed under MIT. Twitter: @michaelampr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelampr/jam.git"
+  },
+  "keywords": [
+    "Icons",
+    "Font",
+    "JavaScript",
+    "icons",
+    "SVG",
+    "Font-icons",
+    "CSS"
+  ],
+  "author": "Michael Amprimo <hello@michaelamprimo.com> (http://michaelamprimo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelampr/jam/issues"
+  },
+  "homepage": "https://github.com/michaelampr/jam#readme"
+}

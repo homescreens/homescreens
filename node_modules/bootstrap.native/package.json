@@ -1,0 +1,36 @@
+{
+  "name": "bootstrap.native",
+  "version": "2.0.24",
+  "description": "Native Javascript for Bootstrap, the sweetest Javascript library without jQuery.",
+  "main": "dist/bootstrap-native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js > dist/bootstrap-native.js && npm run build-min",
+    "build-v4": "node build-v4.js > dist/bootstrap-native-v4.js && npm run build-v4-min",
+    "build-min": "node build.js -m > dist/bootstrap-native.min.js",
+    "build-v4-min": "node build-v4.js -m > dist/bootstrap-native-v4.min.js",
+    "watch": "onchange \"lib/*/**\" -i -- npm run build && npm run build-v4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thednp/bootstrap.native.git"
+  },
+  "keywords": [
+    "bootstrap.native",
+    "bootstrap",
+    "vanilla js",
+    "native javascript",
+    "vanilla javascript"
+  ],
+  "author": "dnp_theme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thednp/bootstrap.native/issues"
+  },
+  "homepage": "https://thednp.github.io/bootstrap.native/",
+  "devDependencies": {
+    "onchange": "^3.0.2",
+    "uglify-js": "^2.7.3",
+    "yargs": "^5.0.0"
+  }
+}
