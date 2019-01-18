@@ -40,7 +40,7 @@ for image in `ls -r *.{gif,jpeg,jpg,JPG,png,webm} -R 2>/dev/null`; do
 		# Video icon
 		echo -e "\t<span class=\"jammin\" data-jam=\"video-camera-vintage-f\" data-fill=\"#a2b5d2\"></span>"
 	fi
-	echo -e "\t<a href=\"./full/$full\" target=\"_blank\"><img class=\"lazy\" data-src=\"./thumb/$image\" alt=\"$full\"></a>"
+	echo -e "\t<a href=\"assets/full/$full\" target=\"_blank\"><img class=\"lazy\" data-src=\"assets/thumb/$image\" alt=\"$full\"></a>"
 	echo "</div>"
 
 done
