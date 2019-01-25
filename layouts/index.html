@@ -1,48 +1,11 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Homescreens</title>
+{{ partial "head.html" . }}
 
-		<link rel="stylesheet" href="css/salvattore.css">
-		<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-		<link rel="stylesheet" href="node_modules/jam-icons/css/jam.min.css">
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/styles.css">
+<div id="header">
+	<h1>Inspo</h1>
+	<h3>A curated selection of /wg/'s homescreens</h3>
+</div>
 
-		<!--Favicons-->
-		<link rel="icon" type="image/ico" href="favicon.ico" />
-		<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
-
-	</head>
-	<body>
-
-		<nav class="navbar navbar-expand-md">
-			<a href="/" class="navbar-brand d-flex mr-auto">homescreens</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-			<div class="navbar-collapse collapse" id="collapsingNavbar3">
-				<ul class="nav navbar-nav ml-auto w-100">
-					<li class="nav-item">
-						<a class="nav-link" href="/about.html">about</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/irc.html">irc</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="https://boards.4chan.org/wg/catalog#s=homescreen">wiki</a>
-					</li>
-				</ul>
-			</div>
-		</nav>
-
-		<div id="header">
-			<h1>Inspo</h1>
-			<h2>A curated selection of /wg/'s homescreens</h2>
-		</div>
-		<!-- include 'data-columns' at the container -->
+	<!-- include 'data-columns' at the container -->
 		<div id="timeline" data-columns>
 			<div class="item">
 				<a href="assets/full/0166.png" target="_blank"><img class="lazy" data-src="assets/thumb/0166.png" alt="0166.png"></a>
@@ -595,14 +558,14 @@
 			</div>
 		</div>
 
-		<script src="node_modules/jam-icons/js/jam.min.js"></script>
-		<script src="node_modules/vanilla-lazyload/dist/lazyload.min.js"></script>
+		<script src="/js/jam.min.js"></script>
+		<script src="/js/lazyload.min.js"></script>
 		<script>
 			var myLazyLoad = new LazyLoad({
 				elements_selector: ".lazy"
 			});
 		</script>
-		<script src="node_modules/salvattore/dist/salvattore.min.js"></script>
-		<script type="text/javascript" src="node_modules/bootstrap.native/dist/bootstrap-native-v4.min.js"></script>
-	</body>
-</html>
+		<script src="/js/salvattore.min.js"></script>
+		<script type="text/javascript" src="/js/bootstrap-native-v4.min.js"></script>
+
+{{ partial "footer.html" . }}

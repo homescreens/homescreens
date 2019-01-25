@@ -1,7 +1,7 @@
 +++
 title = "#homescreen"
 date = 2019-01-24T20:07:54-08:00
-draft = true
+draft = false
 desc = "Rules and info for the #homescreen IRC channel on Rizon"
 +++
 

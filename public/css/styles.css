@@ -19,6 +19,10 @@ h1 {
 	font-weight: bold;
 }
 h2 {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+h3 {
 	font-size: 1rem;
 	margin: 0.67em 0;
 }
@@ -46,7 +50,7 @@ img:not([src]) {
 }
 .content {
 	margin: 0% 5%;
-	max-width: 500px;
+	max-width: 768px;
 }
 .content a {
 	color: #789fda;

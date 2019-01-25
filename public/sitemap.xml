@@ -3,8 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://homescreens.org/wiki/test/</loc>
-    <lastmod>2019-01-23T01:01:59-08:00</lastmod>
+    <loc>http://homescreens.org/</loc>
   </url>
   
   <url>
@@ -14,18 +13,11 @@
   
   <url>
     <loc>http://homescreens.org/</loc>
-    <lastmod>2019-01-23T01:01:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://homescreens.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://homescreens.org/wiki/</loc>
-    <lastmod>2019-01-23T01:01:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
