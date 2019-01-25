@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homescreens</title>
+    <link>http://homescreens.org/</link>
+    <description>Recent content on Homescreens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 01:01:59 -0800</lastBuildDate>
+    
+	<atom:link href="http://homescreens.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://homescreens.org/wiki/test/</link>
+      <pubDate>Wed, 23 Jan 2019 01:01:59 -0800</pubDate>
+      
+      <guid>http://homescreens.org/wiki/test/</guid>
+      <description>asdhf klsdfh jkasd fhjklaf hjdf djkasfh klash djah jkasdf hdas</description>
+    </item>
+    
+  </channel>
+</rss>
