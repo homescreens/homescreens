@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Homescreens</title>
+		<title>{{ with .Title }}{{ $title := printf "%s" $.Title }}{{ if not (eq $title $.Site.Title)}}{{$title}} · {{ end }}{{ end }}{{ .Site.Title }}</title>
 
 		<link rel="stylesheet" href="/css/salvattore.css">
 		<link rel="stylesheet" href="/css/bootstrap.min.css">

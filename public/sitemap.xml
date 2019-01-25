@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://homescreens.org/</loc>
+    <loc>http://homescreens.org/irc/</loc>
+    <lastmod>2019-01-24T20:07:54-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://homescreens.org/about/</loc>
+    <lastmod>2019-01-24T20:07:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://homescreens.org/wiki/</loc>
+    <lastmod>2019-01-24T20:07:44-08:00</lastmod>
   </url>
   
   <url>

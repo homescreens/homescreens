@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wikis on Homescreens</title>
+    <title>Ricing guide on Homescreens</title>
     <link>http://homescreens.org/wiki/</link>
-    <description>Recent content in Wikis on Homescreens</description>
+    <description>Recent content in Ricing guide on Homescreens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 01:01:59 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 20:07:44 -0800</lastBuildDate>
     
 	<atom:link href="http://homescreens.org/wiki/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>http://homescreens.org/wiki/test/</link>
-      <pubDate>Wed, 23 Jan 2019 01:01:59 -0800</pubDate>
-      
-      <guid>http://homescreens.org/wiki/test/</guid>
-      <description>asdhf klsdfh jkasd fhjklaf hjdf djkasfh klash djah jkasdf hdas</description>
-    </item>
     
   </channel>
 </rss>
