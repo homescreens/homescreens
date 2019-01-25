@@ -1,4 +1,3 @@
-/* Styles for example pages */
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -7,9 +6,8 @@
 }
 body {
 	margin: 0 auto;
-	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 1rem; 
-	font-weight: bold;
 	line-height: 1.4em;
 	background: #F9F9F9;
 	color: #666666;
@@ -19,6 +17,10 @@ h1 {
 	font-weight: bold;
 }
 h2 {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+h3 {
 	font-size: 1rem;
 	margin: 0.67em 0;
 }
@@ -46,7 +48,7 @@ img:not([src]) {
 }
 .content {
 	margin: 0% 5%;
-	max-width: 500px;
+	max-width: 768px;
 }
 .content a {
 	color: #789fda;
@@ -64,6 +66,7 @@ img:not([src]) {
 }
 .navbar {
 	background-color: #789fda !important;
+	font-weight: bold;
 	padding: 1% 5%;
 }
 .navbar a {
