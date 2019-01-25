@@ -1,3 +1,3 @@
-[submodule "assets"]
-	path = assets
+[submodule "static/assets"]
+	path = static/assets
 	url = https://github.com/homescreens/assets
