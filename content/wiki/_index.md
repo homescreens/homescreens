@@ -5,82 +5,48 @@ draft = false
 desc = "An introductory guide to smartphone ricing"
 +++
 
-*Ricing* is a term that refers to modifying the user interface of a device to pursue a certain aesthetic or provide tailored, perhaps missing functionality. This guide will focus on Android ricing, centering around user-friendly choices, and will avoid technical stuff like ROM flashing, rooting, bootloader unlocking, custom recovery and such.
+# Overview
 
-Almost every piece of Android can be replaced with another that better fits the desired experience. This guide will try to teach you what components can be replaced (hint: anything if you try hard enough), what are the popular choices and how to modify them to fit your taste.
+**Ricing** is a term that refers to modifying the user interface of a device to pursue a certain aesthetic or provide tailored, perhaps missing functionality. This guide will focus on Android ricing, centering around user-friendly choices, and will avoid technical stuff like ROM flashing, rooting, bootloader unlocking, custom recovery and such.
 
->"First of all; ricing won’t be an easy task. I mean, sure you can copy the config files from someone else and live with that. But that kind of ruins the fun of it all." – #rice's [list o' resources](https://rizonrice.github.io/resources#how)
+Brief note: paid versions of apps below are not required to rice but can provide useful additional features. Open-source alternatives are provided as well.
 
-## Disclaimer
+A **launcher** is an application that shows up whenever you press the home button and it lets you open stuff – it’s the home screen. It offers a desktop with icons and a drawer where you navigate around a list of every installed application. It can also fit widgets, small panels which allow you to interact with an app without completely opening it (think looking at the current weather). Your default launcher is likely not too customizable; for one, custom icon packs are typically inapplicable on default launchers. As such, here are some recommended alternatives:
 
-While every (every!) component of Android can be modified or replaced, some things require wildly different amounts of effort. Focusing on easy modifications is recommended, they provide a huge impact on aesthetic and functionality: modifying your launcher, choosing a nice background to tie everything together, changing some icons or adding some subtle animations.
+  - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher): simple to use customizable launcher that will serve and will serve most, if not all, of your ricing needs
+  - [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2): a launcher with more features than Nova 
+  - [Lawnchair](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah): open-source alternative to the above two
 
-If you are a neet have a lot of free time and dedication to customizing your entire Android experience, you can always flash a custom ROM, which provides maximum absolute fucking control over every aspect of your smartphone (security, privacy, performance, functionality, aesthetic, etc), but can be risky, void your warranty or even brick your device. Instructions vary wildly by device, ask Google or XDA Forums about it, it won't be covered here.
-Getting inspiration
+With a custom launcher, you are now free to apply custom **icon packs**, which override stock icons. Suggested icon packs include:
 
-Before starting, you should have a rough idea of what it is that you're looking for. Maybe you just want to hide some apps or change a background, or maybe you'd like to have a fully custom homescreen. Please do look at the /wg/ thread and the gallery over at the main page.
-Replacing your launcher
+  - [Delta](https://play.google.com/store/apps/details?id=website.leifs.delta)
+  - [Glyphs by Tokems](https://forum.xda-developers.com/android/themes/icons-pack-glyphs-tokems-t3019186)
+  - More...
 
-A launcher is an application that shows up whenever you press the Home button and it lets you open stuff -- it's the home screen. It offers a desktop with icons and a drawer where you navigate around a list of every installed application. It can also fit widgets, small panels which allow you to interact with an app without completely opening it (think looking at the current weather).
+The next step is to create your own **widgets** or for more flexibility, **live wallpapers**. For the former we recommend [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) and for the latter, [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper). These apps provide you with options to display almost anything on your homescreen, from the music playing to the weather to displaying RSS feeds.
 
-Most phones come with a launcher full of "useful" features like Google Now and icons which never appear consistent. Installing a new launcher will most likely deliver a great impact on your experience, since some can be fully customized (layouts, colors, animations) and most support custom icon packs. Chances are it'll also help your battery.
+KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials. (Link to KWGT/KLWP article if we decide to write one).
 
-To replace your launcher, all you need to do is download one of your choice and set it as default after pressing the Home button. You don't need root or anything special.
+This provides you with a sufficient foundation to begin ricing! More specialized information about ricing is located below.
 
-The most popular choice on #homescreen and /g/ is Nova Launcher, a "highly customizable, performance driven, home screen replacement for Android" (novalauncher.com). While it is proprietary (and has a paid version), its highly recommended and more than enough to achieve a superior level of customization when compared to the stock Android launcher. It supports modifying the layouts (change desktop grid, switch between list or grid in drawer), animations, effects, custom gestures, changing labels and many colors, icon packs, and a bunch of other stuff. Check its website for a full list of features, and download it at Google Play.
+# General guidelines
 
-Feel free to browse Google Play and try popular launchers, but beware of apps with a hefty download size or questionable permissions. Here are some recommended ones:
+Most of the time you want to follow these guidelines.
 
-  - Nova Launcher: easily the best choice. Read above.
-  - Total Launcher: highly customizable launcher that claims to be lightweight and easy to use.
-  - Evie: a (relatively new) launcher with little customization available focusing on performance, which looks pretty out of the box.
-  - Apex Launcher
-  - Smart Launcher
-  - ADW Launcher
-  - KISS Launcher
-  - Try Zeam Launcher or Hayai Launcher if for some reason you are on old Android with less than 256 mb of RAM.
+  - **Duplicates (two clocks)**: Don't have more than one instance of anything on your homescreen. The typical offender is having a clock in the status bar and one as part of a widget or live wallpaper.
+  - **Icon labels**: You shouldn't need these since the icons themselves should be informative enough.
+  - More...
 
-After installing a launcher, its suggested that you hide the app labels from your desktop. You can also hide some apps from your drawer (like unused non-removable stock apps), but in reality it's up to you how you customize it. Look at the inspo gallery for ideas.
+# Communities
 
-Avoid using a clock widget when you already have a clock in the notification bar. For some reason everyone hates "two clocks" with a passion in the /wg/ threads. If you insist on having a widget, Nova Launcher offers a setting to hide the navigation bar.
+Sometimes seeing others' rice and related discussion can spark ideas. In such case, communities centered around phone ricing are worth checking out. Our own community includes the [homescreen threads located on /wg/](https://4chan.org/wg/homescreen) as well as its affiliated [chatroom](https://homescreens.org/irc/).
 
-## Background
+# Specific topics
 
-just browse wallhaven.cc
+Potentially includes:
 
-## Icon packs
-
-Icon packs are a quick way to make your entire homescreen seem consistent. It's an application that comes with a bunch of icons following a common theme, giving all of your applications a similar appearance. Your icon pack of choice and background must be cohesive. If you use a busy wallpaper, go with a minimal icon pack, or if you choose a vibrant icon pack, choose a minimal wallpaper, although many say that icon packs must complement your background, and not the other way around.
-
-You can apply an icon pack on your launcher by downloading one and selecting it in your launcher's settings. Almost all third-party launchers support it. You can always look on Google Play for more apps, but here are some of the most popular icon packs seen on the homescreen threads:
-
-  - TODO put links in this list
-  - Glyphs
-  - Moonshine
-  - Simply 8-Bit
-  - Vintage
-  - Elun
-  - H20
-  - Delta
-  - Glim
-
-## Replacing stock apps
-
-TODO write on superior(tm) alternatives like textra, clover, dashchan, newpipe, bromite, opengur, reddit slide, a decent office suite etc etc whatever
-More information
-
-If you are feeling unsatisfied or want to rice your Android device even further, you can find help or more information in these places:
-
-  - #homescreen IRC channel @ Rizon
-  - #rice @ Rizon, although theyre focused on linux ricing
-  - /wg/ homescreen threads (also check out /stpg/ threads)
-  - /g/ (if you're patient)
-  - /w/ (if you're into anime)
-  - /r/androidthemes
-  - XDA Forums
-
-[comment]: <> (Author's note)
-
-[comment]: <> (I've never riced or cared about it, but after lurking the thread and enough years in the IRC channel I guess I learned enough to write about it. I did read these guides before though, and recommend doing so too: yttrium's android ricing /g/uide and this extremely outdated installgentoo guide.)
-
-[comment]: <> (This guide is for that one overwhelmed person who joined #homescreen for 5 minutes asking why people/guides told him to root/install a rom/unlock bootloader to be able to rice, when all he needed was a new launcher and background.)
+  - More on KLWP/KWGT
+  - Re-hosting the pastebins on /wg/ FAQ
+  - Icon pack page with thumbnails of them
+  - Riceable apps
+  - Additional ricing capabilities for rooted phones
