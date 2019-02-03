@@ -2,6 +2,10 @@
 
 <div class="content">
 	{{ .Content }}
+	{{ range .Pages }}
+	<h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+	{{ end }}
+
 </div>
 
 {{ partial "footer.html" . }}
