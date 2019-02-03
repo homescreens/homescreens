@@ -21,6 +21,7 @@ With a custom launcher, you are now free to apply custom **icon packs**, which o
 
   - [Delta](https://play.google.com/store/apps/details?id=website.leifs.delta)
   - [Glyphs by Tokems](https://forum.xda-developers.com/android/themes/icons-pack-glyphs-tokems-t3019186)
+  - [Kecil](https://play.google.com/store/apps/details?id=com.kecil.dashboard)
   [comment]: <> (- More...)
 
 The next step is to create your own **widgets** or for more flexibility, **live wallpapers**. For the former we recommend [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) and for the latter, [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper). These apps provide you with options to display almost anything on your homescreen, from the music playing to the weather to displaying RSS feeds.
