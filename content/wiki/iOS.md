@@ -1,29 +1,20 @@
 +++
 title = "iDevice Ricing Guide"
 date = 2019-02-03T02:26:47-05:00
-draft = true
+draft = false
 desc = ""
 +++
 
-Below will be listed some decent themes and tweaks as to what I see fit, if anyone has anything to add make your own updated paste when this one is over a year old. If you have questions I may or may not be in the rizon homescreen channel. Otherwise, you can just go shitpost on r/jailbreak.
-***LATEST EDIT: 03:14, 18/03/2017***
+[comment]: <> (Below will be listed some decent themes and tweaks as to what I see fit, if anyone has anything to add make your own updated paste when this one is over a year old. If you have questions I may or may not be in the rizon homescreen channel. Otherwise, you can just go shitpost on r/jailbreak.)
 
-http://www.reddit.com/r/iOSThemes
-
-http://www.reddit.com/r/Jailbreak
-
-https://www.reddit.com/r/jailbreak/wiki/escapeplan
-
-https://docs.google.com/spreadsheets/d/14e9GB-PNhDJuKI799InVFWrUQc-qn-Wd3zRJHKGkKr0/pubhtml
 
 # Tweaks
 
-- Tweaks are effectively the modifications to your iDevice, Tweaks can range from being visual (aesthetic), all the way to changing system based processes. The latter of this is usually down to people who know what they're doing and how to diagnose when things don't go as expected, however I've included some Tweaks that work well and are easy to use, also there are some Tweaks that work and make significant (and somewhat insignificant) changes visually.
+- Tweaks are effectively the modifications to your iDevice. They can range from being visual (aesthetic), all the way to changing system based processes. The latter of this is usually down to people who know what they're doing and how to diagnose when things don't go as expected, however I've included some Tweaks that work well and are easy to use, also there are some Tweaks that work and make significant (and somewhat insignificant) changes visually.
 
 - As a side note, some tweaks break somewhat upon updates, follow the link posted below to check whether the tweak you want is still supported for your iOS version. Also, you have to be exact when searching for tweaks in cydia.
 
-- Tweak List
-https://docs.google.com/spreadsheets/d/14e9GB-PNhDJuKI799InVFWrUQc-qn-Wd3zRJHKGkKr0/pubhtml
+- [Tweak List](https://docs.google.com/spreadsheets/d/14e9GB-PNhDJuKI799InVFWrUQc-qn-Wd3zRJHKGkKr0/pubhtml)
 
 ## Selected tweaks and applications
 
@@ -80,4 +71,12 @@ Basically it just un-clutters your iPhone, removes temporary files, cache files 
 
 - Zoobhoy Eight: $2.99, One of the best themes ever released, clean and elegant. Is practically 3 themes bundled into one package.
 
+# Links
 
+- http://www.reddit.com/r/iOSThemes
+
+- http://www.reddit.com/r/Jailbreak
+
+- https://www.reddit.com/r/jailbreak/wiki/escapeplan
+
+- https://docs.google.com/spreadsheets/d/14e9GB-PNhDJuKI799InVFWrUQc-qn-Wd3zRJHKGkKr0/pubhtml

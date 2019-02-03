@@ -1,7 +1,7 @@
 +++
 title = "Sidebar Theme"
 date = 2019-02-03T02:23:55-05:00
-draft = true
+draft = false
 desc = ""
 +++
 
