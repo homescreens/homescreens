@@ -36,8 +36,8 @@ This provides you with a sufficient foundation to begin ricing! More specialized
 
 Most of the time you want to follow these guidelines.
 
-  - **Duplicates (two clocks)**: Don't have more than one instance of anything on your homescreen. The typical offender is having a clock in the status bar and one as part of a widget or live wallpaper.
-  - **Icon labels**: You shouldn't need these since the icons themselves should be informative enough.
+  - **Avoid unnecessary duplicates (e.g two clocks)**: Don't have more than one instance of anything on your homescreen. The typical offender is having one clock in the status bar and one as part of a widget or live wallpaper.
+  - **Hide icon labels**: You shouldn't need these since the icons themselves should be informative enough.
   [comment]: <> (- More...)
 
 # Communities
