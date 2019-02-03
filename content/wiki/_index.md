@@ -21,11 +21,13 @@ With a custom launcher, you are now free to apply custom **icon packs**, which o
 
   - [Delta](https://play.google.com/store/apps/details?id=website.leifs.delta)
   - [Glyphs by Tokems](https://forum.xda-developers.com/android/themes/icons-pack-glyphs-tokems-t3019186)
-  - More...
+  [comment]: <> (- More...)
 
 The next step is to create your own **widgets** or for more flexibility, **live wallpapers**. For the former we recommend [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) and for the latter, [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper). These apps provide you with options to display almost anything on your homescreen, from the music playing to the weather to displaying RSS feeds.
 
-KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials. (Link to KWGT/KLWP article if we decide to write one).
+KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials. For that, [Craftmath's KLWP Guide](https://www.bcraftmath.com/klwp.html) as well as [Jagwar's Guide](http://www.jagwar.de/kustom-beginners-guide-part-1-klwp-basics/) are recommended.
+
+[comment]: <> (Link to KWGT/KLWP article if we decide to write one)
 
 This provides you with a sufficient foundation to begin ricing! More specialized information about ricing is located below.
 
@@ -35,7 +37,7 @@ Most of the time you want to follow these guidelines.
 
   - **Duplicates (two clocks)**: Don't have more than one instance of anything on your homescreen. The typical offender is having a clock in the status bar and one as part of a widget or live wallpaper.
   - **Icon labels**: You shouldn't need these since the icons themselves should be informative enough.
-  - More...
+  [comment]: <> (- More...)
 
 # Communities
 
@@ -43,10 +45,7 @@ Sometimes seeing others' rice and related discussion can spark ideas. In such ca
 
 # Specific topics
 
-Potentially includes:
-
-  - More on KLWP/KWGT
-  - Re-hosting the pastebins on /wg/ FAQ
-  - Icon pack page with thumbnails of them
-  - Riceable apps
-  - Additional ricing capabilities for rooted phones
+  [comment]: <> (- More on KLWP/KWGT)
+  [comment]: <> (- Riceable apps)
+  [comment]: <> (- Stuff for rooted phones)
+  [comment]: <> (- Icon pack page with thumbnails of them)
