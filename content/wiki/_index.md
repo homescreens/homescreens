@@ -5,16 +5,16 @@ draft = false
 desc = "An introductory guide to smartphone ricing"
 +++
 
-<p>So you've seen the thread on /wg/,or mabye /g/, or even dropped by the irc channel, and now you wonder: "how do i make my homescreen look this slick?". This short guide will hopefully serve as an introduction to the world of ricing your homescreen, and lay a foundation for you expand further.</p>
+<p>So you've seen the thread on /wg/, maybe /g/, or even dropped by the IRC channel and now you wonder: "how do I make my homescreen look this slick?". This short guide will hopefully serve as an introduction to the world of ricing your homescreen, and lay a foundation for you to expand further.</p>
 
-<p>Most of the recent screens found on this site are made with a combination of a launcher and KLWP. these two applications give you all the tools you need and they work independently so you can choose whatever combination you want. Remember to look through the settings and interface of the apps you download.</p>
+<p>Most of the recent screens found on this site are made with a combination of a launcher and KLWP. These two applications give you all the tools you need and they work independently so you can choose whatever combination you want. Remember to look through the settings and interface of the apps you download.</p>
 
-<p>the launcher will do the app drawer,  icons and gesture controls, while klwp usually does the ‘wallpaper’ part, meaning any clocks, music information, papes, etc.</p>
+<p>The launcher will do the app drawer, icons and gesture controls, while KLWP usually does the ‘wallpaper’ part, meaning any clocks, music information, background images, etc.</p>
 
-<p>As for prices most applications mentioned have a free version which is fully usable, but purchasing can unlock several useful features.</p>
+<p>As for prices, most applications mentioned have a free version which is fully usable, but purchasing can unlock several additional features.</p>
 
 <h2>Launchers</h2>
-<p>A launcher is an application that functions in the same way as a desktop environment would. It offers a homescreen where you can place icons, display a wallpaper and gives you access to an app drawer. Stock launchers are generally very limited, and don’t offer much functionality beyond icons and widgets. Custom ones allow you to add touch gestures and customize your app drawer.</p>
+<p>A launcher is an application that functions in the same way a desktop environment would. It offers a homescreen where you can place icons, display a wallpaper and gives you access to an app drawer. Stock launchers are generally very limited, and don’t offer much functionality beyond icons and widgets. Custom ones allow you to add touch gestures and customize your app drawer.</p>
 
 <p>There are a bunch of different launchers available on the play store, so it is encouraged you look at them yourself and find one with the featureset you need.</p>
 
@@ -32,12 +32,12 @@ desc = "An introductory guide to smartphone ricing"
 	<li><a href="https://play.google.com/store/apps/details?id=website.leifs.delta">Delta</a></li>
 </ul>
 
-<p>You can also change icons individually, usually by tapping and holding on an icon (note: dynamic icons, like calendars, will not update with the one applied manually).</p>
+<p>You can also change icons individually, usually by tapping and holding on an icon (note: dynamic icons, like calendars or weather, will not automatically update when a manual one is set).</p>
 
 <h2>KLWP</h2>
 <p>Kustom Live Wallpaper is an app that allows you to make your own live wallpapers in a fairly simple wysiwyg editor.</p>
 
-<p>There are quite a bit of resources when it comes to klwp, here are some we have found to be quite useful for beginners, they cover most basics like how to make a button etc.:</p>
+<p>There are quite a bit of resources when it comes to klwp. Here are some we have found to be quite useful for beginners, they cover most basics like how to make a button:</p>
 <ul>
 	<li><a href="http://www.jagwar.de/kustom-beginners-guide-part-1-klwp-basics/">Jagwar's Kustom beginners guide</a></li>
 	<li><a href="https://www.bcraftmath.com/klwp.html#klwpbeginner">Brandon craftmath's begginer series</a></li>
