@@ -40,13 +40,7 @@ KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker w
 
 You can also find a good listing for the basics on the [kustom.rocks tutorial page](https://help.kustom.rocks/i176-tutorials-list) or under the tutorial section in the app menu.
 
-# General guidelines
-
-Most of the time you want to follow these guidelines.
-
-  - **Avoid unnecessary duplicates (e.g two clocks)**: Don't have more than one instance of anything on your homescreen. The typical offender is having one clock in the status bar and one as part of a widget or live wallpaper.
-  - **Hide icon labels**: You shouldn't need these since the icons themselves should be informative enough.
-  [comment]: <> (- More...)
+[comment]: <> (General guidelines: https://gist.github.com/676339784/81d1d2528f779599cef433203be1e9e2)
 
 # Communities
 
