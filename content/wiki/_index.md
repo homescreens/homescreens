@@ -1,4 +1,9 @@
-+++ title = "How to rice your homescreen" date = 2019-03-29T17:52:44 draft = false desc = "an introductory guide" +++
++++
+title = "Ricing guide"
+date = 2019-01-24T20:07:44-08:00
+draft = false
+desc = "An introductory guide to smartphone ricing"
++++
 
 <p>So you've seen the thread on /wg/,or mabye /g/, or even dropped by the irc channel, and now you wonder: "how do i make my homescreen look this slick?". This short guide will hopefully serve as an introduction to the world of ricing your homescreen, and lay a foundation for you expand further.</p>
 
