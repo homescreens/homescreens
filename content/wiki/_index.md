@@ -20,7 +20,7 @@ There are a bunch of different launchers available on the play store, so it is e
 
 To replace your launcher, all you need to do is download one of your choice and set it as default after pressing the Home button.
 
-[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is the most commonly used launcher. If you want even more customizability than what Nova offers, you might want to check out [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2).
+[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is the most commonly used launcher. If you want even more customizability than what Nova offers, you might want to check out [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2). [comment]: <> (FOSS alternative Lawnchair)
 
 # Icon packs
 One of the features of a launcher is to apply custom icon packs. They are a quick way to make your entire homescreen consistent. An icon pack is just what it sounds like, an application that comes with a bunch of icons.
@@ -36,9 +36,9 @@ You can also change icons individually, usually by tapping and holding on an ico
 # KLWP
 Kustom Live Wallpaper is an app that allows you to make your own live wallpapers in a fairly simple wysiwyg editor.
 
-KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials that start from the basics. For that, [Craftmath's KLWP Guide](https://www.bcraftmath.com/klwp.html) and his [YouTube channel](https://www.youtube.com/channel/UC3adc3KUUT88oEk11Fg5FFA), as well as [Jagwar's Guide](http://www.jagwar.de/kustom-beginners-guide-part-1-klwp-basics/) are recommended.
+KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials that start from the basics. For that, [Craftmath's KLWP Guide](https://www.bcraftmath.com/klwp.html) and his [YouTube channel](https://www.youtube.com/channel/UC3adc3KUUT88oEk11Fg5FFA), as well as [Jagwar's Guide](http://www.jagwar.de/kustom-beginners-guide-part-1-klwp-basics/), are recommended.
 
-You can also find a good listing for the basics on the kustom.rocks tutorial page which can be found [here](https://help.kustom.rocks/i176-tutorials-list) or under the tutorial section in the app menu.
+You can also find a good listing for the basics on the [kustom.rocks tutorial page](https://help.kustom.rocks/i176-tutorials-list) or under the tutorial section in the app menu.
 
 # General guidelines
 
