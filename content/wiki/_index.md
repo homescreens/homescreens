@@ -20,7 +20,9 @@ There are a bunch of different launchers available on the play store, so it is e
 
 To replace your launcher, all you need to do is download one of your choice and set it as default after pressing the Home button.
 
-[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is the most commonly used launcher. If you want even more customizability than what Nova offers, you might want to check out [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2). [comment]: <> (FOSS alternative Lawnchair)
+[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is the most commonly used launcher. If you want even more customizability than what Nova offers, you might want to check out [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2).
+
+[comment]: <> (FOSS alternative Lawnchair perhaps)
 
 # Icon packs
 One of the features of a launcher is to apply custom icon packs. They are a quick way to make your entire homescreen consistent. An icon pack is just what it sounds like, an application that comes with a bunch of icons.
