@@ -5,40 +5,44 @@ draft = false
 desc = "An introductory guide to smartphone ricing"
 +++
 
-# Overview
+This short guide will serve as an introduction to ricing, or customizing, your homescreen, and will lay a foundation for you to expand further.
 
-**Ricing** is a term that refers to modifying the user interface of a device to pursue a certain aesthetic or provide tailored, perhaps missing functionality. This guide will focus on Android ricing, centering around user-friendly choices, and will avoid technical stuff like ROM flashing, rooting, bootloader unlocking, custom recovery and such.
+Most of the recent screens found on the [inspiration gallery](https://homescreens.org/) are made with a launcher and KLWP, which are sufficient tools for ricing. Remember to look through the settings and interface of the apps you download.
 
-Brief note: paid versions of apps below are not required to rice but can provide useful additional features. Open-source alternatives are provided as well.
+The launcher handles the app drawer, icons and gesture controls, while KLWP handles the ‘wallpaper’ part, meaning clocks, music information, papes, etc.
 
-A **launcher** is an application that shows up whenever you press the home button and it lets you open stuff – it’s the home screen. It offers a desktop with icons and a drawer where you navigate around a list of every installed application. It can also fit widgets, small panels which allow you to interact with an app without completely opening it (think looking at the current weather). Your default launcher is likely not too customizable; for one, custom icon packs are typically inapplicable on default launchers. As such, here are some recommended alternatives:
+Some of the apps suggested have free versions which should serve most purposes, but "pro" versions unlock several additional features.
 
-  - [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher): simple to use customizable launcher that will serve and will serve most, if not all, of your ricing needs
-  - [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2): a launcher with more features than Nova 
-  - [Lawnchair](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah): open-source alternative to the above two
+# Launchers
+A launcher is an application that functions in the same way a desktop environment would. It offers a homescreen where you can place icons, display a wallpaper, and access an app drawer. Stock launchers are generally very limited, and don’t offer much functionality beyond icons and widgets. Custom ones allow you to add touch gestures and customize your app drawer.
 
-With a custom launcher, you are now free to apply custom **icon packs**, which override stock icons. Suggested icon packs include:
+There are a bunch of different launchers available on the Play Store, so it is encouraged you look at them yourself and find one with the feature set you need.
 
+To replace your launcher, download one of your choice and set it as default after pressing the home button.
+
+[Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is the most commonly used launcher. For more customizability than what Nova offers, check out [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2).
+
+[comment]: <> (FOSS alternative Lawnchair perhaps)
+
+# Icon packs
+One of the features of a launcher is to apply custom icon packs. They are a quick way to make your entire homescreen consistent. An icon pack is just what it sounds like, an application that comes with a bunch of icons.
+
+You can apply an icon pack on your launcher by downloading one and selecting it in your launcher's settings. Almost all third-party launchers support it. You can always look on Google Play for more apps, but here are some of the most popular icon packs seen in the homescreen threads:
   - [Delta](https://play.google.com/store/apps/details?id=website.leifs.delta)
   - [Glyphs by Tokems](https://forum.xda-developers.com/android/themes/icons-pack-glyphs-tokems-t3019186)
   - [Kecil](https://play.google.com/store/apps/details?id=com.kecil.dashboard)
   [comment]: <> (- More...)
 
-The next step is to create your own **widgets** or for more flexibility, **live wallpapers**. For the former we recommend [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) and for the latter, [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper). These apps provide you with options to display almost anything on your homescreen, from the music playing to the weather to displaying RSS feeds.
+You can also change icons individually, usually by tapping and holding on an icon (note: dynamic icons, like calendars or weather, will not automatically update when a manual one is set).
 
-KWGT/KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials. For that, [Craftmath's KLWP Guide](https://www.bcraftmath.com/klwp.html) as well as [Jagwar's Guide](http://www.jagwar.de/kustom-beginners-guide-part-1-klwp-basics/) are recommended.
+# KLWP
+Kustom Live Wallpaper is an app that allows you to make your own live wallpapers in a fairly simple wysiwyg editor.
 
-[comment]: <> (Link to KWGT/KLWP article if we decide to write one)
+KLWP might be daunting for a newcomer. The best way to learn is to tinker with it and by reading or watching tutorials that start from the basics. For that, [Craftmath's KLWP Guide](https://www.bcraftmath.com/klwp.html) and his [YouTube channel](https://www.youtube.com/channel/UC3adc3KUUT88oEk11Fg5FFA), as well as [Jagwar's Guide](http://www.jagwar.de/kustom-beginners-guide-part-1-klwp-basics/), are recommended.
 
-This provides you with a sufficient foundation to begin ricing! More specialized information about ricing is located below.
+You can also find a good listing for the basics on the [kustom.rocks tutorial page](https://help.kustom.rocks/i176-tutorials-list) or under the tutorial section in the app menu.
 
-# General guidelines
-
-Most of the time you want to follow these guidelines.
-
-  - **Avoid unnecessary duplicates (e.g two clocks)**: Don't have more than one instance of anything on your homescreen. The typical offender is having one clock in the status bar and one as part of a widget or live wallpaper.
-  - **Hide icon labels**: You shouldn't need these since the icons themselves should be informative enough.
-  [comment]: <> (- More...)
+[comment]: <> (General guidelines: https://gist.github.com/676339784/81d1d2528f779599cef433203be1e9e2)
 
 # Communities
 
