@@ -5,20 +5,20 @@ draft = false
 desc = "An introductory guide to smartphone ricing"
 +++
 
-This short guide will serve as an introduction to ricing, or customizing, your homescreen as well as lay a foundation for you to expand further.
+This short guide will serve as an introduction to ricing, or customizing, your homescreen, and will lay a foundation for you to expand further.
 
-Most of the recent screens found on the [inspiration gallery](https://homescreens.org/) are made with a launcher and KLWP. These two applications give you all the tools you need and they work independently so you can choose whatever combination you want. Remember to look through the settings and interface of the apps you download.
+Most of the recent screens found on the [inspiration gallery](https://homescreens.org/) are made with a launcher and KLWP, which are sufficient tools for ricing. Remember to look through the settings and interface of the apps you download.
 
 The launcher handles the app drawer, icons and gesture controls, while KLWP handles the ‘wallpaper’ part, meaning clocks, music information, papes, etc.
 
-Some of the apps suggested have free versions which should serve most purposes, but "pro" versions can unlock several additional features.
+Some of the apps suggested have free versions which should serve most purposes, but "pro" versions unlock several additional features.
 
 # Launchers
-A launcher is an application that functions in the same way a desktop environment would. It offers a homescreen where you can place icons, display a wallpaper and gives you access to an app drawer. Stock launchers are generally very limited, and don’t offer much functionality beyond icons and widgets. Custom ones allow you to add touch gestures and customize your app drawer.
+A launcher is an application that functions in the same way a desktop environment would. It offers a homescreen where you can place icons, display a wallpaper, and access an app drawer. Stock launchers are generally very limited, and don’t offer much functionality beyond icons and widgets. Custom ones allow you to add touch gestures and customize your app drawer.
 
 There are a bunch of different launchers available on the Play Store, so it is encouraged you look at them yourself and find one with the feature set you need.
 
-To replace your launcher, download one of your choice and set it as default after pressing the Home button.
+To replace your launcher, download one of your choice and set it as default after pressing the home button.
 
 [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) is the most commonly used launcher. For more customizability than what Nova offers, check out [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2).
 
