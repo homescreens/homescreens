@@ -7,7 +7,9 @@ desc = "An introductory guide to smartphone ricing"
 
 This short guide will serve as an introduction to ricing, or customizing, your homescreen, and will lay a foundation for you to expand further.
 
-Most of the recent screens found on the [inspiration gallery](https://homescreens.org/) are made with a launcher and KLWP, which are sufficient tools for ricing. Remember to look through the settings and interface of the apps you download.
+Most of the recent screens found in the [inspiration gallery](https://homescreens.org/) are made by combining a [launcher](#launchers) with a custom background made with [KLWP](#klwp).
+
+Remember to look through the settings and interface of the apps you download.
 
 The launcher handles the app drawer, icons and gesture controls, while KLWP handles the ‘wallpaper’ part, meaning clocks, music information, papes, etc.
 
