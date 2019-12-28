@@ -11,7 +11,7 @@ How to edit icon packs, change icon color – (On your phone!)
 2. If rooted go to data/app – look for the icon pack, extract from the /res folder “/drawable-nodpi-v4” from the .apk like if it was a zip (not sure if this applies to all icon packs)
 3. If non rooted then download the .apk from the internet and then extract the same way.
 
-Example used for [Flight icons](https://play.google.com/store/apps/details?id=com.natewren.flight&hl=en)
+Example used for [Flight icons](https://play.google.com/store/apps/details?id=com.natewren.flight)
 
 Icons fully extracted are in [this link](http://my.mixtape.moe/olrgjs.zip)
 
@@ -21,7 +21,7 @@ Just search the app name and an icon should show up, although sometimes the name
 
 Apps I used:
 
-1. [Color Picker](https://play.google.com/store/apps/details?id=com.beta.colorselector&hl=en)
+1. [Color Picker](https://play.google.com/store/apps/details?id=com.nauj27.android.colorpicker)
 2. Photoshop touch – used to be on Google Play but Adobe removed it. Mirror [here](http://my.mixtape.moe/plycks.apk)
 
 Guide with screenshots:
