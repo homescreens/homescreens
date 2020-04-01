@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Mangoscreen.org - CLICK TO GET STARTED</title>
+		<style>
+html, body {
+	width:  100%;
+	height: 100%;
+	margin: 0;
+}
+		</style>
+	</head>
+
+	<body>
+		<canvas id="canvas" style="background-color:#fff;"></canvas>
+	</body>
+
+	<script type="text/javascript">
+		function init() {
+			var canvas = document.getElementById("canvas");
+			var ctx = canvas.getContext("2d");
+			ctx.canvas.width  = window.innerWidth;
+			ctx.canvas.height = window.innerHeight;
+
+			var click_counter = 0;
+			var mango_images = ["https://webstockreview.net/images/mango-clipart-papaya-1.png", "https://i.pinimg.com/originals/c4/2a/6d/c42a6de4727e80929c9133f81abaa3eb.png", "https://files.catbox.moe/n5m1o5.png", "https://files.catbox.moe/wixcg8.jpeg"];
+			var april_fools_images = ["https://i.pinimg.com/originals/ae/f9/e0/aef9e030aaaf262efcdc46548bfc7a98.jpg", "https://files.catbox.moe/s0zi44.png"];
+			var all_images = mango_images.concat(april_fools_images);
+
+			var loadedImages = {};
+
+			var promiseArray = all_images.map(function(imgurl){
+				var prom = new Promise(function(resolve,reject){
+					var img = new Image();
+					img.onload = function(){
+						loadedImages[imgurl] = img;
+						resolve();
+					};
+					img.src = imgurl;
+				});
+				return prom;
+			});
+
+			Promise.all(promiseArray).then(loadedImages);
+
+
+			canvas.onclick = function(event){
+				click_counter++;
+				console.log(click_counter);
+				var pic_to_load = "";
+				if (click_counter % 2 == 1) {
+					pic_to_load = mango_images[Math.floor(Math.random() * mango_images.length)];
+				}
+				else {
+					pic_to_load = april_fools_images[Math.floor(Math.random() * april_fools_images.length)];
+				}
+
+				var img = new Image();
+				img = loadedImages[pic_to_load];
+				console.log(img);
+
+				// vary the size maybe
+				var new_img_width = 0.5 * img.width
+				var new_img_height = 0.5 * img.height
+				var x = Math.round(event.offsetX - new_img_width / 2);
+				var y = Math.round(event.offsetY - new_img_height / 2);
+
+				console.log(img.src);
+				ctx.drawImage(img, x, y, new_img_width, new_img_height);
+			};
+		}
+init()
+	</script>
+</html>
